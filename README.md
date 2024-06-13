@@ -98,4 +98,4 @@
 <!-- <code><img height="45" src="" alt="skill"></code> -->
 
 ## Contact me:
-📫 t.c.catillo1028@gmail.com
+📫 t.c.castillo1028@gmail.com
